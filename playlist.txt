@@ -1,0 +1,23 @@
+
+https://www.youtube.com/feed/subscriptions i -50 ds 20221006-  f "vr180|3dvr|doax" "vam|virt a mate|virt-a-mate"
+https://www.youtube.com/watch?v=h_eFV_NSH9w&list=UUXKEwxHPOsl_aLQ0KOsQfQw&index=10
+
+
+注释：
+1. link
+下载指定连接下视频
+2. link i -3,6,7-8,10-
+下载指定连接下视频列表1到3，第6，7到8，10之后所有
+3. link f "r18" "mv"
+下载指定连接下视频列表，视频标题含有mv的，不含r18字样的视频。支持正则
+4. link d 20220906-20220907
+下载指定连接下视频，上传时间在20220906到20220907之间的视频
+4. link ds 20220906-20220907
+下载指定连接下视频，上传时间在20220906到20220907之间的视频,并结束该链接
+5. link n
+不下载列表，仅下载连接指向视频
+6.link p 127.0.0.1:8080
+单独设置代理
+7.link p no
+不使用代理
+
