@@ -7,9 +7,6 @@
 
 参数：（自行修改脚本文件）
     savePath=r"h:\youtube-dl"
-
-    savePath=r"h:\youtube-dl"
-    savePath=r"h:\youtube-dl"
     searchMPath=(r"H:\youtube-dl\OK",savePath,r"D:\youtube-dl")
     proxy="127.0.0.1:10909"
 
